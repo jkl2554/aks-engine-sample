@@ -2,7 +2,8 @@
 https://github.com/Azure/aks-engine/blob/master/docs/tutorials/quickstart.md
 
 [api model(cluster definitions)]
-https://github.com/Azure/aks-engine/blob/master/docs/topics/clusterdefinitions.md
+https://github.com/Azure/aks-engine/blob/master/docs/topics/clusterdefinitions.md  
+  
 aks engine 설치
 ```
 //windows chocolatey 설치필요.
@@ -50,7 +51,7 @@ aks-engine deploy --resource-group <resource group name> \
 Connect
 `_output/<prefix name>`폴더
 
-![image.png](/Items.png)
+![image.png](/images/Items.png)
 
 kubeconfig 설정
 ```
