@@ -50,7 +50,7 @@ aks-engine deploy --resource-group <resource group name> \
 Connect
 `_output/<prefix name>`폴더
 
-![image.png](/.attachments/image-38c314b0-55d1-4d2d-a71f-3fe870bf53f6.png)
+![image.png](/.Items.png)
 
 kubeconfig 설정
 ```
